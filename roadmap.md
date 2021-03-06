@@ -41,6 +41,7 @@ _updated 2020-03-05_
 - Insurance integration
 - Additional audits 🌗
 - Migration of all ACSI farms to v2
+- New Exchange Listings
  
  
 ## **----- Q3 ------**
